@@ -1,0 +1,13 @@
+## Spam Detection Task
+
+### Task
+Your task is to analyze a dataset of emails and build a model to predict if the 
+Email is a spam Email or not. You are free to choose any programming language and machine learning framework of your choice. In addition, add an interface weather a web or an app that lets us test the model.
+
+### Dataset
+You will be provided with a dataset of Emails in CSV format. Each Email is labeled with its corresponding classification (spam or not).
+
+### Submission Guidelines
+Submit your solution as a well-documented notebook along with a brief report summarizing your approach, challenges faced, and results obtained. Include any relevant visualizations or insights you have gained from your analysis.
+
+Good luck and happy coding!
